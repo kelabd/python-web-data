@@ -8,7 +8,12 @@ Created on Fri Oct 27 14:27:46 2023
 import re
 
 # Specify the file path
-file_path = 'regex_sum_42.txt'
+
+# Sample Data
+# file_path = 'regex_sum_42.txt'
+
+# Actual Data
+file_path = 'regex_sum_1923292.txt'
 
 # Open the file in read mode ('r')
 with open(file_path, 'r') as file:
